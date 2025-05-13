@@ -1,2 +1,2 @@
-# test_jemkins
-jemkins实验
+# test_jenkins
+jenkins实验
